@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%7B68EE&size=50&center=true&vCenter=true&width=1000&height=75&lines=I'm+Luana+Feitosa;Cyber+Security+Student;Learning+Python;Be+Welcome!;">
 </p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuaFeitosa&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Luabfeitosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luabfeitosa&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Luabfeitosa github stats" /> 
     <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaFeitosa&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
 </div>
 
